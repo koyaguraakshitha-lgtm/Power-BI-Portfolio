@@ -10,5 +10,6 @@ Power BI dashboard analysing social media performance, engagement and audience b
 - Data Modelling
 - Data Visualisation
 ## 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-![Social Media Analysis Dashboard](screenshots/social media analysis.png)
+![Social Media Analysis Dashboard](screenshots/social-media-analysis.png)
